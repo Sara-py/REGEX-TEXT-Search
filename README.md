@@ -1,6 +1,6 @@
 Welcome to REGEX-TEXT-Search! 🎉
 
-Hey there, regex wizard! 👋 Ready to hunt down patterns in text like a pro? This Python project, search.py, is your trusty sidekick for searching text using regular expressions. It converts a regex pattern into a postfix expression, builds an NFA, converts it to a DFA, and then uses that DFA to find matches in either a file or a chunk of text. Sounds cool, right? Let’s dive into what this project does and how you can use it!
+Hey there, regex wizard!🧙‍♂️👋 Ready to hunt down patterns in text like a pro? This Python project, search.py, is your trusty sidekick for searching text using regular expressions. It converts a regex pattern into a postfix expression, builds an NFA, converts it to a DFA, and then uses that DFA to find matches in either a file or a chunk of text. Sounds cool, right? Let’s dive into what this project does and how you can use it!
 What’s This Project About? 🤔
 This project is a regular expression matcher that searches for patterns in text. It’s like a super-powered "Find" tool! Here’s the magic it performs:
 
